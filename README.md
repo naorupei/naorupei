@@ -14,11 +14,6 @@
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=naorupei&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naorupei&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" width="42%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=naorupei&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
 
 <br/>
