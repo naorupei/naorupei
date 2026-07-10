@@ -18,6 +18,10 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
 </div>
