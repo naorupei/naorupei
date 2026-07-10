@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=header" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/>
 
@@ -17,8 +17,6 @@
 <img src="assets/sleepy_blob.svg" width="220"/>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
