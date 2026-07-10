@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naorupei&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" width="90%"/>
+<img src="https://ghchart.rshah.org/FF0000/naorupei?v=2" alt="naorupei's Github chart" width="90%"/>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/>
