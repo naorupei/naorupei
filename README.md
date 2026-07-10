@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=yay+we+build" alt="yay we build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=yay+we+build" alt="Hi I build" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=header" width="100%"/>
@@ -14,12 +14,12 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naorupei&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&ring_color=FF0000" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naorupei&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&langs_count=8" width="42%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naorupei&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=naorupei&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
 
 <br/>
 
