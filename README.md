@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=HI+I+build+stuff" alt="Hi I build" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=5000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=HI+I+build+stuff" alt="Hi I build" />
 </a>
 
 <br/>
