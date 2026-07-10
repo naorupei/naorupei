@@ -14,11 +14,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=naorupei&hide_border=true&background=0D0D0D&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naorupei&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&hide_border=true" width="90%"/>
+<img src="assets/sleepy_blob.svg" width="220"/>
 
 <br/><br/>
 
