@@ -24,8 +24,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=naorupei&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge&labelColor=0D0D0D" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
 </div>
