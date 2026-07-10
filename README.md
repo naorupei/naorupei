@@ -19,7 +19,8 @@
 <br/>
 
 <img src="https://ghchart.rshah.org/FF0000/naorupei?v=2" alt="naorupei's Github chart" width="90%"/>
-<br/><br/>
+
+<br/><br/><br/>
 
 <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/>
 
