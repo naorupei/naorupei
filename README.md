@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-FF0000?style=for-the-badge" width="30"/><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge" width="30"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=HI+I+build+stuff" alt="Hi I build" />
